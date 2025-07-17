@@ -1,0 +1,18 @@
+{
+  "Lua.runtime.version": "LuaJIT",
+  "Lua.diagnostics.globals": ["vim"],
+  "Lua.workspace.checkThirdParty": false,
+  "Lua.workspace.library": [
+    "/home/Calidonious/.config/nvim/lua",
+    "/usr/share/nvim/runtime/lua",
+    "/usr/share/nvim/lua",
+    "/usr/lib/nvim",
+    "/home/Calidonious/.config/nvim/lua",
+    "/home/Calidonious/.config/nvim/lua/plugins",
+    "${workspaceFolder}",
+    "${workspaceFolder}/lua",
+    "${workspaceFolder}/lua/plugins"
+  ],
+  "Lua.telemetry.enable": false
+}
+
